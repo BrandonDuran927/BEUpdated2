@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "229312116413",
+    "project_id": "testttttttttttttttt22",
+    "storage_bucket": "testttttttttttttttt22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229312116413:android:7fbf14d09ea8a87c1569d4",
+        "android_client_info": {
+          "package_name": "com.brandon.testttttttttttttttt22"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoP5-fnDbNr9qrQej01bQgmpAY--zQogQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229312116413:android:b8d60a7239c19e4d1569d4",
+        "android_client_info": {
+          "package_name": "com.example.beupdated"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoP5-fnDbNr9qrQej01bQgmpAY--zQogQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
