@@ -1,0 +1,2 @@
+# BEUpdated App
+- BEUpdated is an Android mobile application created for students of National University - Fairview to check available stocks at Bulldog Exchange. The app helps students avoid the hassle of visiting the store only to find items out of stock. With a simple and user-friendly interface, BEUpdated provides real-time stock updates, allowing students to plan their purchases efficiently. By making product availability easy to check, the app improves convenience and saves time.
